@@ -632,6 +632,20 @@ export default function AttendanceProposalWebsite() {
           </motion.div>
         </section>
 
+        <footer className="mt-12 py-8 border-t border-slate-200 text-center">
+          <div className="max-w-3xl mx-auto">
+            <p className="text-sm uppercase tracking-[0.25em] text-slate-500 mb-3">
+              Crafted with modern school vibes
+            </p>
+            <p className="text-lg font-semibold text-slate-900">
+              Made by <span className="text-violet-600">11a zorigtbaatar</span>
+            </p>
+            <p className="mt-2 text-sm text-slate-500">
+              Энэ нь бүтээлч, цэвэрхэн төслийн танилцуулга бөгөөд сурагчдын дизайн болон технологийн мэдлэгийг харуулсан.
+            </p>
+          </div>
+        </footer>
+
       </motion.div>
     </div>
   );
